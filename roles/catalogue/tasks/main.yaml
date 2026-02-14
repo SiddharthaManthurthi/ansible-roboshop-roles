@@ -36,3 +36,5 @@
     name: catalogue
     state: restarted
     enabled: yes
+
+     #curl http://catalogue-dev.siddharthais.online:8080/health
