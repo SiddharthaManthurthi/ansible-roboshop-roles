@@ -1,5 +1,5 @@
 - name: message-1
-  ansible.builtin.debug:
+  ansible.builtin.de2gug:
     msg: "Hi from MSG-1"
 
 - name: set the os fact
